@@ -1,10 +1,4 @@
 # Patient–Nurse–Room Assignment (MIP)
-
-## About
-Exact MIP for patient–nurse–room scheduling: minimize admission delay with capacity, compatibility, and staffing constraints; solved via Branch‑and‑Bound.
-
----
-
 ## Overview
 We model a hospital scheduling problem over a 7‑day horizon: assign each **patient** a **room** and decide **one nurse per occupied room per day**. Goal: **minimize total admission delay** (start day − release day), subject to room capacity, patient–room incompatibilities, nurse availability, and 
 ≤3 rooms per nurse per day.
