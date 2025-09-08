@@ -103,8 +103,12 @@ python solve.py --data data/instance.json --solver cbc --time-limit 300
 
 ---
 
-## License
-Course deliverable — All rights reserved (update if you open‑source).
+## Authors & Roles
+**Patrizio Acquadro, Tito Nicola Drugman, David Gadiaga**
+MSc Computer Science - Artificial Intelligence (T2i)
+Milan, Politecnico di Milano
 
-## Citation
-Cite the project report in `docs/` when referencing the model and results.
+---
+
+## License
+Course deliverable — All rights reserved.
